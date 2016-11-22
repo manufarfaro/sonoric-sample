@@ -1,0 +1,2357 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright 2013 <support@ualabisolutions.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2013-04-19 09:37-0300\n"
+"PO-Revision-Date: 2013-04-19 10:26-0300\n"
+"Last-Translator: \n"
+"Language-Team: es_AR <support@ualabisolutions.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/BandPhotosController.php:29;75;102;136
+#, fuzzy
+msgid "Invalid band photo"
+msgstr "Libro de Visitas Inválido"
+
+#: Controller/BandPhotosController.php:47
+#: Controller/BandTracksController.php:47
+#, fuzzy
+msgid "Invalid Band Track"
+msgstr "Usuario Inválido"
+
+#: Controller/BandPhotosController.php:56;79;106
+#, fuzzy
+msgid "The band photo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/BandPhotosController.php:59;82;109
+#, fuzzy
+msgid "The band photo could not be saved. Please, try again."
+msgstr "El libro de Visitas no ha podido ser salvado."
+
+#: Controller/BandPhotosController.php:140
+#, fuzzy
+msgid "Band photo deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/BandPhotosController.php:143
+#, fuzzy
+msgid "Band photo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/BandTracksController.php:29;75;101;136
+#, fuzzy
+msgid "Invalid band track"
+msgstr "Usuario Inválido"
+
+#: Controller/BandTracksController.php:56;79;106
+#, fuzzy
+msgid "The band track has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/BandTracksController.php:59;82;109
+#, fuzzy
+msgid "The band track could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/BandTracksController.php:140
+#, fuzzy
+msgid "Band track deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/BandTracksController.php:143
+#, fuzzy
+msgid "Band track was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/BandsController.php:120;154;180;211;242
+#, fuzzy
+msgid "Invalid band"
+msgstr "Usuario Inválido"
+
+#: Controller/BandsController.php:135;158;184;215
+#, fuzzy
+msgid "The band has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/BandsController.php:138;161;187;218
+#, fuzzy
+msgid "The band could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/BandsController.php:246
+#, fuzzy
+msgid "Band deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/BandsController.php:249
+#, fuzzy
+msgid "Band was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/ClinicsController.php:48;80;104;135
+#, fuzzy
+msgid "Invalid clinic"
+msgstr "Usuario Inválido"
+
+#: Controller/ClinicsController.php:63;84;108
+#, fuzzy
+msgid "The clinic has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/ClinicsController.php:66;87;111
+#, fuzzy
+msgid "The clinic could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/ClinicsController.php:139
+#, fuzzy
+msgid "Clinic deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/ClinicsController.php:142
+#, fuzzy
+msgid "Clinic was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/CourseTeachersController.php:29;47;77;112
+#, fuzzy
+msgid "Invalid course teacher"
+msgstr "Usuario Inválido"
+
+#: Controller/CourseTeachersController.php:57;81
+#, fuzzy
+msgid "The course teacher has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/CourseTeachersController.php:61;84
+#, fuzzy
+msgid "The course teacher could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/CourseTeachersController.php:116
+#, fuzzy
+msgid "Course teacher deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/CourseTeachersController.php:120
+#, fuzzy
+msgid "Course teacher was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/CoursesController.php:49;97;121;152
+#, fuzzy
+msgid "Invalid course"
+msgstr "Usuario Inválido"
+
+#: Controller/CoursesController.php:80;101;125
+#, fuzzy
+msgid "The course has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/CoursesController.php:83;104;128
+#, fuzzy
+msgid "The course could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/CoursesController.php:156
+#, fuzzy
+msgid "Course deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/CoursesController.php:159
+#, fuzzy
+msgid "Course was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/DiscArtsCombosController.php:29;61;87
+#, fuzzy
+msgid "Invalid disc arts combo"
+msgstr "Libro de Visitas Inválido"
+
+#: Controller/DiscArtsCombosController.php:44;65
+#, fuzzy
+msgid "The disc arts combo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscArtsCombosController.php:47;68
+#, fuzzy
+msgid "The disc arts combo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/DiscArtsCombosController.php:91
+#, fuzzy
+msgid "Disc arts combo deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/DiscArtsCombosController.php:94
+#, fuzzy
+msgid "Disc arts combo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscArtsPhotosController.php:29;61;85;116
+#, fuzzy
+msgid "Invalid disc arts photo"
+msgstr "Libro de Visitas Inválido"
+
+#: Controller/DiscArtsPhotosController.php:44;65;89
+#, fuzzy
+msgid "The disc arts photo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscArtsPhotosController.php:47;68;92
+#, fuzzy
+msgid "The disc arts photo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/DiscArtsPhotosController.php:120
+#, fuzzy
+msgid "Disc arts photo deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/DiscArtsPhotosController.php:123
+#, fuzzy
+msgid "Disc arts photo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscPhotoCombosController.php:29;61;87
+msgid "Invalid disc photo combo"
+msgstr "Foto Inválida"
+
+#: Controller/DiscPhotoCombosController.php:44;65
+#, fuzzy
+msgid "The disc photo combo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscPhotoCombosController.php:47;68
+#, fuzzy
+msgid "The disc photo combo could not be saved. Please, try again."
+msgstr "El libro de Visitas no ha podido ser salvado."
+
+#: Controller/DiscPhotoCombosController.php:91
+msgid "Disc photo combo deleted"
+msgstr "Foto Eliminada"
+
+#: Controller/DiscPhotoCombosController.php:94
+#, fuzzy
+msgid "Disc photo combo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscPhotoPhotosController.php:29;61;85;114
+msgid "Invalid disc photo photo"
+msgstr "Foto Inválida"
+
+#: Controller/DiscPhotoPhotosController.php:44;65;89
+#, fuzzy
+msgid "The disc photo photo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscPhotoPhotosController.php:47;68;92
+#, fuzzy
+msgid "The disc photo photo could not be saved. Please, try again."
+msgstr "El libro de Visitas no ha podido ser salvado."
+
+#: Controller/DiscPhotoPhotosController.php:118
+msgid "Disc photo photo deleted"
+msgstr "Foto Eliminada"
+
+#: Controller/DiscPhotoPhotosController.php:121
+#, fuzzy
+msgid "Disc photo photo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscPrintingCombosController.php:29;61;87
+msgid "Invalid disc printing combo"
+msgstr "Foto Inválida"
+
+#: Controller/DiscPrintingCombosController.php:44;65
+#, fuzzy
+msgid "The disc printing combo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscPrintingCombosController.php:47;68
+#, fuzzy
+msgid "The disc printing combo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/DiscPrintingCombosController.php:91
+msgid "Disc printing combo deleted"
+msgstr "Foto Eliminada"
+
+#: Controller/DiscPrintingCombosController.php:94
+#, fuzzy
+msgid "Disc printing combo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscPrintingPhotosController.php:29;61;85;114
+msgid "Invalid disc printing photo"
+msgstr "Foto Inválida"
+
+#: Controller/DiscPrintingPhotosController.php:44;65;89
+#, fuzzy
+msgid "The disc printing photo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/DiscPrintingPhotosController.php:47;68;92
+#, fuzzy
+msgid "The disc printing photo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/DiscPrintingPhotosController.php:118
+msgid "Disc printing photo deleted"
+msgstr "Foto Eliminada"
+
+#: Controller/DiscPrintingPhotosController.php:121
+#, fuzzy
+msgid "Disc printing photo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/DiscsController.php:34;50
+#, fuzzy
+msgid "Invalid disc art"
+msgstr "Usuario Inválido"
+
+#: Controller/DiscsController.php:62
+#, fuzzy
+msgid "The disc has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/DiscsController.php:65
+#, fuzzy
+msgid "The disc could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/GenresController.php:29;61;87
+#, fuzzy
+msgid "Invalid genre"
+msgstr "Usuario Inválido"
+
+#: Controller/GenresController.php:44;65
+#, fuzzy
+msgid "The genre has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/GenresController.php:47;68
+#, fuzzy
+msgid "The genre could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/GenresController.php:91
+#, fuzzy
+msgid "Genre deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/GenresController.php:94
+#, fuzzy
+msgid "Genre was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/HiringsController.php:23;39;55
+#, fuzzy
+msgid "Invalid hiring"
+msgstr "Usuario Inválido"
+
+#: Controller/HiringsController.php:65
+#, fuzzy
+msgid "The hiring has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/HiringsController.php:68
+#, fuzzy
+msgid "The hiring could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/IndexNoticesController.php:29;61;85;115
+msgid "Invalid index notice"
+msgstr "Noticia Inválida"
+
+#: Controller/IndexNoticesController.php:44;65;89
+#, fuzzy
+msgid "The index notice has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/IndexNoticesController.php:47;68;92
+#, fuzzy
+msgid "The index notice could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/IndexNoticesController.php:120
+#, fuzzy
+msgid "Index notice deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/IndexNoticesController.php:122
+#, fuzzy
+msgid "Index notice was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/IndexPhotosController.php:29;61;85;114
+#, fuzzy
+msgid "Invalid index photo"
+msgstr "Libro de Visitas Inválido"
+
+#: Controller/IndexPhotosController.php:44;65;89
+#, fuzzy
+msgid "The index photo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/IndexPhotosController.php:47;68;92
+#, fuzzy
+msgid "The index photo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/IndexPhotosController.php:118
+#, fuzzy
+msgid "Index photo deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/IndexPhotosController.php:121
+#, fuzzy
+msgid "Index photo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/IndexTextsController.php:26;42
+#, fuzzy
+msgid "Invalid index text"
+msgstr "Usuario Inválido"
+
+#: Controller/IndexTextsController.php:52
+#, fuzzy
+msgid "The index text has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/IndexTextsController.php:55
+#, fuzzy
+msgid "The index text could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/ShowsController.php:51;83;107;137
+#, fuzzy
+msgid "Invalid show"
+msgstr "Usuario Inválido"
+
+#: Controller/ShowsController.php:66;87;111
+#, fuzzy
+msgid "The show has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/ShowsController.php:69;90;114
+#, fuzzy
+msgid "The show could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/ShowsController.php:141
+#, fuzzy
+msgid "Show deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/ShowsController.php:144
+#, fuzzy
+msgid "Show was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/StudiosController.php:25;40;57
+#, fuzzy
+msgid "Invalid studio"
+msgstr "Libro de Visitas Inválido"
+
+#: Controller/StudiosController.php:66
+#, fuzzy
+msgid "The studio has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/StudiosController.php:69
+#, fuzzy
+msgid "The studio could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/UsersController.php:22;42;60;82
+msgid "Invalid user"
+msgstr "Usuario Inválido"
+
+#: Controller/UsersController.php:31;46
+msgid "The user has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/UsersController.php:34;49
+msgid "The user could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/UsersController.php:64
+#, fuzzy
+msgid "User Password has been changed"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/UsersController.php:67
+#, fuzzy
+msgid "User Password could not be changed. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/UsersController.php:85
+msgid "User deleted"
+msgstr "Usuario Borrado"
+
+#: Controller/UsersController.php:88
+msgid "User was not deleted"
+msgstr "El Usuario no ha sido Borrado"
+
+#: Controller/UsersController.php:98
+msgid "Invalid username or password, try again"
+msgstr "Usuario y/o Contraseña inválido"
+
+#: Controller/VideoclipCombosController.php:29;61;87
+msgid "Invalid videoclip combo"
+msgstr "Promoción Inválida"
+
+#: Controller/VideoclipCombosController.php:44;65
+#, fuzzy
+msgid "The videoclip combo has been saved"
+msgstr "El Libro de Visitas ha sido Salvado"
+
+#: Controller/VideoclipCombosController.php:47;68
+#, fuzzy
+msgid "The videoclip combo could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: Controller/VideoclipCombosController.php:91
+msgid "Videoclip combo deleted"
+msgstr "Promoción Eliminada"
+
+#: Controller/VideoclipCombosController.php:94
+#, fuzzy
+msgid "Videoclip combo was not deleted"
+msgstr "El Libro de Visitas no ha podido ser Borrado"
+
+#: Controller/VideoclipsController.php:38;57;73;106
+#, fuzzy
+msgid "Invalid videoclip"
+msgstr "Usuario Inválido"
+
+#: Controller/VideoclipsController.php:85;135
+#, fuzzy
+msgid "The videoclip has been saved"
+msgstr "El usuario ha sido salvado."
+
+#: Controller/VideoclipsController.php:88;120;138
+#, fuzzy
+msgid "The videoclip could not be saved. Please, try again."
+msgstr "El usuario no ha podido ser salvado."
+
+#: View/Admin/index.ctp:98;106
+#: View/BandPhotos/admin_index.ctp:36
+#: View/BandTracks/admin_index.ctp:36
+#: View/Bands/admin_index.ctp:58
+#: View/Clinics/admin_index.ctp:45
+#: View/CourseTeachers/admin_index.ctp:31
+#: View/Courses/admin_index.ctp:41
+#: View/DiscArtsCombos/admin_index.ctp:30
+#: View/DiscArtsPhotos/admin_index.ctp:44
+#: View/DiscPhotoCombos/admin_index.ctp:30
+#: View/DiscPhotoPhotos/admin_index.ctp:43
+#: View/DiscPrintingCombos/admin_index.ctp:30
+#: View/DiscPrintingPhotos/admin_index.ctp:43
+#: View/Genres/admin_index.ctp:28
+#: View/IndexNotices/admin_index.ctp:59
+#: View/IndexPhotos/admin_index.ctp:63
+#: View/Shows/admin_index.ctp:50
+#: View/Users/admin_index.ctp:34
+#: View/VideoclipCombos/admin_index.ctp:36
+msgid "previous"
+msgstr "Anterior"
+
+#: View/Admin/index.ctp:100;112
+#: View/BandPhotos/admin_index.ctp:38
+#: View/BandTracks/admin_index.ctp:38
+#: View/Bands/admin_index.ctp:60
+#: View/Clinics/admin_index.ctp:47
+#: View/CourseTeachers/admin_index.ctp:33
+#: View/Courses/admin_index.ctp:43
+#: View/DiscArtsCombos/admin_index.ctp:32
+#: View/DiscArtsPhotos/admin_index.ctp:46
+#: View/DiscPhotoCombos/admin_index.ctp:32
+#: View/DiscPhotoPhotos/admin_index.ctp:45
+#: View/DiscPrintingCombos/admin_index.ctp:32
+#: View/DiscPrintingPhotos/admin_index.ctp:45
+#: View/Genres/admin_index.ctp:30
+#: View/IndexNotices/admin_index.ctp:61
+#: View/IndexPhotos/admin_index.ctp:65
+#: View/Shows/admin_index.ctp:52
+#: View/Users/admin_index.ctp:36
+#: View/VideoclipCombos/admin_index.ctp:38
+msgid "next"
+msgstr "Siguiente"
+
+#: View/BandPhotos/admin_add.ctp:3
+#, fuzzy
+msgid "Admin Add Band Photo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/BandPhotos/admin_add.ctp:5
+#: View/BandPhotos/admin_view.ctp:8
+#: View/BandTracks/admin_add.ctp:5
+#: View/BandTracks/admin_view.ctp:32
+#: View/Bands/admin_view.ctp:29
+msgid "Band"
+msgstr "Grupo"
+
+#: View/BandPhotos/admin_add.ctp:17
+#: View/BandPhotos/admin_change_image.ctp:13
+#: View/BandPhotos/admin_edit.ctp:13
+#: View/BandTracks/admin_add.ctp:17
+#: View/BandTracks/admin_change_file_track.ctp:14
+#: View/BandTracks/admin_edit.ctp:14
+#: View/Bands/admin_add.ctp:25
+#: View/Bands/admin_change_image_brand.ctp:22
+#: View/Bands/admin_change_image_logo.ctp:17
+#: View/Bands/admin_edit.ctp:26
+#: View/Clinics/admin_add.ctp:11
+#: View/Clinics/admin_change_image.ctp:17
+#: View/Clinics/admin_edit.ctp:12
+#: View/CourseTeachers/admin_add.ctp:24
+#: View/CourseTeachers/admin_edit.ctp:27
+#: View/Courses/admin_add.ctp:29
+#: View/Courses/admin_change_image.ctp:24
+#: View/Courses/admin_edit.ctp:30
+#: View/DiscArtsCombos/admin_add.ctp:21
+#: View/DiscArtsCombos/admin_edit.ctp:22
+#: View/DiscArtsPhotos/admin_add.ctp:10
+#: View/DiscArtsPhotos/admin_change_image.ctp:19
+#: View/DiscArtsPhotos/admin_edit.ctp:11
+#: View/DiscPhotoCombos/admin_add.ctp:21
+#: View/DiscPhotoCombos/admin_edit.ctp:22
+#: View/DiscPhotoPhotos/admin_add.ctp:10
+#: View/DiscPhotoPhotos/admin_change_image.ctp:19
+#: View/DiscPhotoPhotos/admin_edit.ctp:11
+#: View/DiscPrintingCombos/admin_add.ctp:21
+#: View/DiscPrintingCombos/admin_edit.ctp:22
+#: View/DiscPrintingPhotos/admin_add.ctp:10
+#: View/DiscPrintingPhotos/admin_change_image.ctp:20
+#: View/DiscPrintingPhotos/admin_edit.ctp:11
+#: View/Discs/admin_edit.ctp:26
+#: View/Genres/admin_add.ctp:8
+#: View/Genres/admin_edit.ctp:10
+#: View/Hirings/admin_edit.ctp:21
+#: View/IndexNotices/admin_add.ctp:23
+#: View/IndexNotices/admin_change_image.ctp:17
+#: View/IndexNotices/admin_edit.ctp:24
+#: View/IndexPhotos/admin_add.ctp:10
+#: View/IndexPhotos/admin_change_image.ctp:17
+#: View/IndexPhotos/admin_edit.ctp:11
+#: View/IndexTexts/admin_edit.ctp:21
+#: View/Shows/admin_add.ctp:31
+#: View/Shows/admin_change_image.ctp:29
+#: View/Shows/admin_edit.ctp:25
+#: View/Studios/admin_edit.ctp:20
+#: View/Users/admin_add.ctp:15
+#: View/Users/admin_change_password.ctp:16
+#: View/Users/admin_edit.ctp:13
+#: View/VideoclipCombos/admin_add.ctp:24
+#: View/VideoclipCombos/admin_edit.ctp:25
+#: View/Videoclips/admin_change_image.ctp:18
+#: View/Videoclips/admin_edit.ctp:23
+msgid "Submit"
+msgstr "Enviar"
+
+#: View/BandPhotos/admin_add.ctp:20
+#: View/BandPhotos/admin_change_image.ctp:16
+#: View/BandPhotos/admin_edit.ctp:16
+#: View/BandPhotos/admin_index.ctp:9;43
+#: View/BandPhotos/admin_view.ctp:38
+#: View/BandTracks/admin_add.ctp:20
+#: View/BandTracks/admin_change_file_track.ctp:17
+#: View/BandTracks/admin_edit.ctp:17
+#: View/BandTracks/admin_index.ctp:9;43
+#: View/BandTracks/admin_view.ctp:90
+#: View/Bands/admin_add.ctp:28
+#: View/Bands/admin_change_image_brand.ctp:25
+#: View/Bands/admin_change_image_logo.ctp:20
+#: View/Bands/admin_edit.ctp:29
+#: View/Bands/admin_index.ctp:9;65
+#: View/Bands/admin_view.ctp:92;169;209
+#: View/Clinics/admin_add.ctp:13
+#: View/Clinics/admin_change_image.ctp:19
+#: View/Clinics/admin_edit.ctp:15
+#: View/Clinics/admin_index.ctp:9;51
+#: View/Clinics/admin_view.ctp:37
+#: View/CourseTeachers/admin_add.ctp:26
+#: View/CourseTeachers/admin_edit.ctp:30
+#: View/CourseTeachers/admin_view.ctp:25
+#: View/Courses/admin_add.ctp:31
+#: View/Courses/admin_change_image.ctp:26
+#: View/Courses/admin_edit.ctp:32
+#: View/Courses/admin_index.ctp:7;47
+#: View/Courses/admin_view.ctp:39;99
+#: View/DiscArtsCombos/admin_add.ctp:24
+#: View/DiscArtsCombos/admin_edit.ctp:25
+#: View/DiscArtsCombos/admin_index.ctp:7;36
+#: View/DiscArtsCombos/admin_view.ctp:22
+#: View/DiscArtsPhotos/admin_add.ctp:13
+#: View/DiscArtsPhotos/admin_change_image.ctp:22
+#: View/DiscArtsPhotos/admin_edit.ctp:14
+#: View/DiscArtsPhotos/admin_index.ctp:8;50
+#: View/DiscArtsPhotos/admin_view.ctp:33
+#: View/DiscPhotoCombos/admin_add.ctp:24
+#: View/DiscPhotoCombos/admin_edit.ctp:25
+#: View/DiscPhotoCombos/admin_index.ctp:7;37
+#: View/DiscPhotoCombos/admin_view.ctp:21
+#: View/DiscPhotoPhotos/admin_add.ctp:13
+#: View/DiscPhotoPhotos/admin_change_image.ctp:22
+#: View/DiscPhotoPhotos/admin_edit.ctp:14
+#: View/DiscPhotoPhotos/admin_index.ctp:8;50
+#: View/DiscPhotoPhotos/admin_view.ctp:26
+#: View/DiscPrintingCombos/admin_add.ctp:24
+#: View/DiscPrintingCombos/admin_edit.ctp:25
+#: View/DiscPrintingCombos/admin_index.ctp:7;37
+#: View/DiscPrintingCombos/admin_view.ctp:21
+#: View/DiscPrintingPhotos/admin_add.ctp:13
+#: View/DiscPrintingPhotos/admin_change_image.ctp:23
+#: View/DiscPrintingPhotos/admin_edit.ctp:14
+#: View/DiscPrintingPhotos/admin_index.ctp:8;50
+#: View/DiscPrintingPhotos/admin_view.ctp:33
+#: View/Discs/admin_edit.ctp:29
+#: View/Discs/admin_index.ctp:25
+#: View/Genres/admin_add.ctp:11
+#: View/Genres/admin_edit.ctp:13
+#: View/Genres/admin_index.ctp:6;35
+#: View/Genres/admin_view.ctp:16
+#: View/Hirings/admin_edit.ctp:24
+#: View/Hirings/admin_index.ctp:11
+#: View/IndexNotices/admin_add.ctp:25
+#: View/IndexNotices/admin_change_image.ctp:19
+#: View/IndexNotices/admin_edit.ctp:26
+#: View/IndexNotices/admin_index.ctp:8;65
+#: View/IndexNotices/admin_view.ctp:37
+#: View/IndexPhotos/admin_add.ctp:14
+#: View/IndexPhotos/admin_change_image.ctp:21
+#: View/IndexPhotos/admin_edit.ctp:15
+#: View/IndexPhotos/admin_index.ctp:8;69
+#: View/IndexPhotos/admin_view.ctp:32
+#: View/IndexTexts/admin_edit.ctp:24
+#: View/IndexTexts/admin_index.ctp:10
+#: View/Shows/admin_add.ctp:33
+#: View/Shows/admin_change_image.ctp:31
+#: View/Shows/admin_edit.ctp:27
+#: View/Shows/admin_index.ctp:10;56
+#: View/Shows/admin_view.ctp:48
+#: View/Studios/admin_edit.ctp:22
+#: View/Studios/admin_index.ctp:10
+#: View/Users/admin_add.ctp:18
+#: View/Users/admin_change_password.ctp:19
+#: View/Users/admin_edit.ctp:16
+#: View/Users/admin_index.ctp:8;41
+#: View/Users/admin_view.ctp:25
+#: View/VideoclipCombos/admin_add.ctp:27
+#: View/VideoclipCombos/admin_edit.ctp:28
+#: View/VideoclipCombos/admin_index.ctp:10;42
+#: View/VideoclipCombos/admin_view.ctp:36
+#: View/Videoclips/admin_change_image.ctp:21
+#: View/Videoclips/admin_edit.ctp:25
+#: View/Videoclips/admin_index.ctp:36
+msgid "Actions"
+msgstr "Acciones"
+
+#: View/BandPhotos/admin_add.ctp:25
+#: View/BandPhotos/admin_change_image.ctp:38
+#: View/BandPhotos/admin_edit.ctp:38
+#: View/BandPhotos/admin_view.ctp:81
+#: View/BandTracks/admin_add.ctp:25
+#: View/BandTracks/admin_change_file_track.ctp:20
+#: View/BandTracks/admin_edit.ctp:20
+#: View/BandTracks/admin_view.ctp:110
+#, fuzzy
+msgid "View Band"
+msgstr "Mostrar"
+
+#: View/BandPhotos/admin_add.ctp:37
+#: View/BandPhotos/admin_change_image.ctp:49
+#: View/BandPhotos/admin_edit.ctp:49
+#: View/BandPhotos/admin_index.ctp:46
+#: View/BandPhotos/admin_view.ctp:93
+#: View/BandTracks/admin_add.ctp:37
+#: View/BandTracks/admin_index.ctp:46
+#: View/BandTracks/admin_view.ctp:121
+#: View/Bands/admin_add.ctp:31
+#: View/Bands/admin_change_image_brand.ctp:27
+#: View/Bands/admin_change_image_logo.ctp:22
+#: View/Bands/admin_edit.ctp:31
+#: View/Bands/admin_view.ctp:211
+msgid "List Bands"
+msgstr "Listar Grupos"
+
+#: View/BandPhotos/admin_change_image.ctp:3
+#: View/BandPhotos/admin_edit.ctp:3
+#, fuzzy
+msgid "Admin Edit Band Photo"
+msgstr "Editar Libro de Visitas"
+
+#: View/BandPhotos/admin_change_image.ctp:21
+#: View/BandPhotos/admin_edit.ctp:21
+#: View/BandPhotos/admin_index.ctp:23
+#: View/BandTracks/admin_change_file_track.ctp:21
+#: View/BandTracks/admin_edit.ctp:21
+#: View/BandTracks/admin_index.ctp:23
+#: View/Bands/admin_change_image_brand.ctp:39
+#: View/Bands/admin_change_image_logo.ctp:34
+#: View/Bands/admin_edit.ctp:54
+#: View/Bands/admin_index.ctp:45
+#: View/Bands/admin_view.ctp:146;193
+#: View/Clinics/admin_change_image.ctp:21
+#: View/Clinics/admin_edit.ctp:32
+#: View/Clinics/admin_index.ctp:32
+#: View/CourseTeachers/admin_edit.ctp:58
+#: View/Courses/admin_change_image.ctp:52
+#: View/Courses/admin_edit.ctp:58
+#: View/Courses/admin_index.ctp:28
+#: View/Courses/admin_view.ctp:73
+#: View/DiscArtsCombos/admin_edit.ctp:28
+#: View/DiscArtsCombos/admin_index.ctp:17
+#: View/DiscArtsPhotos/admin_change_image.ctp:36
+#: View/DiscArtsPhotos/admin_edit.ctp:27
+#: View/DiscArtsPhotos/admin_index.ctp:31
+#: View/DiscPhotoCombos/admin_edit.ctp:28
+#: View/DiscPhotoCombos/admin_index.ctp:17
+#: View/DiscPhotoPhotos/admin_change_image.ctp:35
+#: View/DiscPhotoPhotos/admin_edit.ctp:27
+#: View/DiscPhotoPhotos/admin_index.ctp:30
+#: View/DiscPrintingCombos/admin_edit.ctp:28
+#: View/DiscPrintingCombos/admin_index.ctp:17
+#: View/DiscPrintingPhotos/admin_change_image.ctp:36
+#: View/DiscPrintingPhotos/admin_edit.ctp:27
+#: View/DiscPrintingPhotos/admin_index.ctp:30
+#: View/Genres/admin_edit.ctp:16
+#: View/Genres/admin_index.ctp:15
+#: View/IndexNotices/admin_change_image.ctp:32
+#: View/IndexNotices/admin_edit.ctp:39
+#: View/IndexNotices/admin_index.ctp:46
+#: View/IndexPhotos/admin_change_image.ctp:36
+#: View/IndexPhotos/admin_edit.ctp:30
+#: View/IndexPhotos/admin_index.ctp:49
+#: View/Shows/admin_change_image.ctp:34
+#: View/Shows/admin_edit.ctp:30
+#: View/Shows/admin_index.ctp:37
+#: View/Users/admin_edit.ctp:19
+#: View/Users/admin_index.ctp:19
+#: View/VideoclipCombos/admin_edit.ctp:31
+#: View/VideoclipCombos/admin_index.ctp:23
+msgid "Delete"
+msgstr "Borrar"
+
+#: View/BandPhotos/admin_change_image.ctp:21
+#: View/BandPhotos/admin_edit.ctp:21
+#: View/BandPhotos/admin_index.ctp:23
+#: View/BandPhotos/admin_view.ctp:71
+#: View/BandTracks/admin_change_file_track.ctp:21
+#: View/BandTracks/admin_edit.ctp:21
+#: View/BandTracks/admin_index.ctp:23
+#: View/BandTracks/admin_view.ctp:104
+#: View/Bands/admin_change_image_brand.ctp:39
+#: View/Bands/admin_change_image_logo.ctp:34
+#: View/Bands/admin_edit.ctp:54
+#: View/Bands/admin_index.ctp:45
+#: View/Bands/admin_view.ctp:146;193;215
+#: View/Clinics/admin_change_image.ctp:21
+#: View/Clinics/admin_edit.ctp:38
+#: View/Clinics/admin_index.ctp:32
+#: View/Clinics/admin_view.ctp:43
+#: View/CourseTeachers/admin_edit.ctp:64
+#: View/CourseTeachers/admin_view.ctp:58
+#: View/Courses/admin_change_image.ctp:58
+#: View/Courses/admin_edit.ctp:64
+#: View/Courses/admin_index.ctp:28
+#: View/Courses/admin_view.ctp:80;102
+#: View/DiscArtsCombos/admin_edit.ctp:28
+#: View/DiscArtsCombos/admin_index.ctp:17
+#: View/DiscArtsCombos/admin_view.ctp:25
+#: View/DiscArtsPhotos/admin_change_image.ctp:36
+#: View/DiscArtsPhotos/admin_edit.ctp:27
+#: View/DiscArtsPhotos/admin_index.ctp:31
+#: View/DiscArtsPhotos/admin_view.ctp:49
+#: View/DiscPhotoCombos/admin_edit.ctp:28
+#: View/DiscPhotoCombos/admin_index.ctp:17
+#: View/DiscPhotoCombos/admin_view.ctp:24
+#: View/DiscPhotoPhotos/admin_change_image.ctp:35
+#: View/DiscPhotoPhotos/admin_edit.ctp:27
+#: View/DiscPhotoPhotos/admin_index.ctp:30
+#: View/DiscPhotoPhotos/admin_view.ctp:29
+#: View/DiscPrintingCombos/admin_edit.ctp:28
+#: View/DiscPrintingCombos/admin_index.ctp:17
+#: View/DiscPrintingCombos/admin_view.ctp:24
+#: View/DiscPrintingPhotos/admin_change_image.ctp:36
+#: View/DiscPrintingPhotos/admin_edit.ctp:27
+#: View/DiscPrintingPhotos/admin_index.ctp:30
+#: View/DiscPrintingPhotos/admin_view.ctp:36
+#: View/Genres/admin_edit.ctp:16
+#: View/Genres/admin_index.ctp:15
+#: View/Genres/admin_view.ctp:19
+#: View/IndexNotices/admin_change_image.ctp:32
+#: View/IndexNotices/admin_edit.ctp:39
+#: View/IndexNotices/admin_index.ctp:46
+#: View/IndexNotices/admin_view.ctp:51
+#: View/IndexPhotos/admin_change_image.ctp:36
+#: View/IndexPhotos/admin_edit.ctp:30
+#: View/IndexPhotos/admin_index.ctp:49
+#: View/IndexPhotos/admin_view.ctp:46
+#: View/Shows/admin_change_image.ctp:34
+#: View/Shows/admin_edit.ctp:30
+#: View/Shows/admin_index.ctp:37
+#: View/Shows/admin_view.ctp:83
+#: View/Users/admin_edit.ctp:19
+#: View/Users/admin_index.ctp:19
+#: View/Users/admin_view.ctp:28
+#: View/VideoclipCombos/admin_edit.ctp:31
+#: View/VideoclipCombos/admin_index.ctp:23
+#: View/VideoclipCombos/admin_view.ctp:39
+msgid "Are you sure you want to delete # %s?"
+msgstr "¿Seguro que desea borrar el registro # %s?"
+
+#: View/BandPhotos/admin_change_image.ctp:27
+#: View/BandPhotos/admin_index.ctp:22
+#: View/BandTracks/admin_change_file_track.ctp:19
+#: View/BandTracks/admin_index.ctp:22
+#: View/Bands/admin_change_image_brand.ctp:31
+#: View/Bands/admin_change_image_logo.ctp:26
+#: View/Bands/admin_index.ctp:42
+#: View/Bands/admin_view.ctp:142;191
+#: View/Clinics/admin_index.ctp:30
+#: View/Courses/admin_index.ctp:26
+#: View/Courses/admin_view.ctp:63
+#: View/DiscArtsCombos/admin_index.ctp:16
+#: View/DiscArtsPhotos/admin_change_image.ctp:27
+#: View/DiscArtsPhotos/admin_index.ctp:29
+#: View/DiscPhotoCombos/admin_index.ctp:16
+#: View/DiscPhotoPhotos/admin_change_image.ctp:27
+#: View/DiscPhotoPhotos/admin_index.ctp:28
+#: View/DiscPrintingCombos/admin_index.ctp:16
+#: View/DiscPrintingPhotos/admin_change_image.ctp:28
+#: View/DiscPrintingPhotos/admin_index.ctp:28
+#: View/Genres/admin_index.ctp:14
+#: View/IndexNotices/admin_change_image.ctp:24
+#: View/IndexNotices/admin_index.ctp:30
+#: View/IndexPhotos/admin_change_image.ctp:27
+#: View/IndexPhotos/admin_index.ctp:32
+#: View/Shows/admin_index.ctp:35
+#: View/Users/admin_change_password.ctp:25
+#: View/Users/admin_index.ctp:18
+#: View/VideoclipCombos/admin_index.ctp:22
+msgid "Edit"
+msgstr "Editar"
+
+#: View/BandPhotos/admin_edit.ctp:27
+#: View/Bands/admin_view.ctp:192
+#: View/Clinics/admin_edit.ctp:21
+#: View/Clinics/admin_index.ctp:31
+#: View/Clinics/admin_view.ctp:41
+#: View/Courses/admin_edit.ctp:47
+#: View/Courses/admin_index.ctp:27
+#: View/DiscArtsPhotos/admin_edit.ctp:19
+#: View/DiscArtsPhotos/admin_index.ctp:30
+#: View/DiscArtsPhotos/admin_view.ctp:41
+#: View/DiscPhotoPhotos/admin_edit.ctp:19
+#: View/DiscPhotoPhotos/admin_index.ctp:29
+#: View/DiscPrintingPhotos/admin_edit.ctp:19
+#: View/DiscPrintingPhotos/admin_index.ctp:29
+#: View/IndexNotices/admin_edit.ctp:31
+#: View/IndexNotices/admin_index.ctp:39
+#: View/IndexNotices/admin_view.ctp:43
+#: View/IndexPhotos/admin_edit.ctp:21
+#: View/IndexPhotos/admin_index.ctp:41
+#: View/IndexPhotos/admin_view.ctp:38
+#: View/Shows/admin_edit.ctp:29
+#: View/Shows/admin_index.ctp:36
+#: View/Shows/admin_view.ctp:66
+msgid "Change Image"
+msgstr "Cambiar Imagen"
+
+#: View/BandPhotos/admin_index.ctp:1
+msgid "Band Photos"
+msgstr "Fotos de Grupos"
+
+#: View/BandPhotos/admin_index.ctp:21
+#: View/BandTracks/admin_index.ctp:21
+#: View/Bands/admin_index.ctp:41
+#: View/Bands/admin_view.ctp:141;190
+#: View/Clinics/admin_index.ctp:29
+#: View/Courses/admin_index.ctp:25
+#: View/Courses/admin_view.ctp:52
+#: View/DiscArtsCombos/admin_index.ctp:15
+#: View/DiscArtsPhotos/admin_index.ctp:28
+#: View/DiscPhotoCombos/admin_index.ctp:15
+#: View/DiscPhotoPhotos/admin_index.ctp:27
+#: View/DiscPrintingCombos/admin_index.ctp:15
+#: View/DiscPrintingPhotos/admin_index.ctp:27
+#: View/Genres/admin_index.ctp:13
+#: View/IndexNotices/admin_index.ctp:27
+#: View/IndexPhotos/admin_index.ctp:28
+#: View/Shows/admin_index.ctp:34
+#: View/Users/admin_change_password.ctp:22
+#: View/Users/admin_index.ctp:17
+#: View/VideoclipCombos/admin_index.ctp:21
+msgid "View"
+msgstr "Mostrar"
+
+#: View/BandPhotos/admin_index.ctp:31
+#: View/BandTracks/admin_index.ctp:31
+#: View/Bands/admin_index.ctp:53
+#: View/Clinics/admin_index.ctp:40
+#: View/CourseTeachers/admin_index.ctp:25
+#: View/Courses/admin_index.ctp:36
+#: View/DiscArtsCombos/admin_index.ctp:25
+#: View/DiscArtsPhotos/admin_index.ctp:39
+#: View/DiscPhotoCombos/admin_index.ctp:25
+#: View/DiscPhotoPhotos/admin_index.ctp:38
+#: View/DiscPrintingCombos/admin_index.ctp:25
+#: View/DiscPrintingPhotos/admin_index.ctp:38
+#: View/Genres/admin_index.ctp:23
+#: View/IndexNotices/admin_index.ctp:54
+#: View/IndexPhotos/admin_index.ctp:58
+#: View/Shows/admin_index.ctp:45
+#: View/Users/admin_index.ctp:28
+#: View/VideoclipCombos/admin_index.ctp:31
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Página {:page} de {:pages}, mostrando {:current} registro(s)  de {:count} en total, empezando desde el registro {:start}, hasta {:end}"
+
+#: View/BandPhotos/admin_index.ctp:45
+msgid "New Band Photo"
+msgstr "Nueva Foto de Grupo"
+
+#: View/BandPhotos/admin_index.ctp:47
+#: View/BandTracks/admin_index.ctp:47
+#: View/Bands/admin_index.ctp:67
+#: View/Bands/admin_view.ctp:216
+msgid "New Band"
+msgstr "Nuevo Grupo"
+
+#: View/BandPhotos/admin_view.ctp:1
+msgid "Band Photo"
+msgstr "Foto de Grupo"
+
+#: View/BandPhotos/admin_view.ctp:3
+#: View/BandTracks/admin_view.ctp:27
+#: View/Bands/admin_view.ctp:31;88;165
+#: View/Clinics/admin_view.ctp:3
+#: View/CourseTeachers/admin_view.ctp:3
+#: View/Courses/admin_view.ctp:3;36
+#: View/DiscArtsCombos/admin_view.ctp:4
+#: View/DiscArtsPhotos/admin_view.ctp:3
+#: View/DiscPhotoCombos/admin_view.ctp:3
+#: View/DiscPhotoPhotos/admin_view.ctp:3
+#: View/DiscPrintingCombos/admin_view.ctp:3
+#: View/DiscPrintingPhotos/admin_view.ctp:3
+#: View/Genres/admin_view.ctp:3
+#: View/IndexNotices/admin_view.ctp:3
+#: View/IndexPhotos/admin_view.ctp:3
+#: View/Shows/admin_view.ctp:3
+#: View/Users/admin_view.ctp:3
+#: View/VideoclipCombos/admin_view.ctp:3
+msgid "Id"
+msgstr "Id"
+
+#: View/BandPhotos/admin_view.ctp:13
+#: View/BandTracks/admin_view.ctp:37
+#: View/Bands/admin_view.ctp:89;166
+#: View/Courses/admin_view.ctp:8
+#: View/DiscArtsCombos/admin_view.ctp:9
+#: View/DiscArtsPhotos/admin_view.ctp:8
+#: View/DiscPhotoCombos/admin_view.ctp:8
+#: View/DiscPhotoPhotos/admin_view.ctp:8
+#: View/DiscPrintingCombos/admin_view.ctp:8
+#: View/DiscPrintingPhotos/admin_view.ctp:8
+#: View/IndexNotices/admin_view.ctp:8
+#: View/VideoclipCombos/admin_view.ctp:8
+msgid "Title"
+msgstr "Titulo"
+
+#: View/BandPhotos/admin_view.ctp:18
+#: View/Bands/admin_view.ctp:167
+#: View/CourseTeachers/admin_view.ctp:18
+#: View/Courses/admin_view.ctp:38
+#: View/DiscArtsPhotos/admin_view.ctp:13
+#: View/DiscPhotoPhotos/admin_view.ctp:13
+#: View/DiscPrintingPhotos/admin_view.ctp:13
+#: View/IndexPhotos/admin_view.ctp:13
+msgid "Description"
+msgstr "Descripción"
+
+#: View/BandPhotos/admin_view.ctp:23
+#: View/Bands/admin_view.ctp:168
+#: View/Clinics/admin_view.ctp:13
+#: View/Courses/admin_view.ctp:18
+#: View/DiscArtsPhotos/admin_view.ctp:18
+#: View/DiscPhotoPhotos/admin_view.ctp:18
+#: View/DiscPrintingPhotos/admin_view.ctp:18
+#: View/IndexNotices/admin_view.ctp:18
+#: View/IndexPhotos/admin_view.ctp:18
+#: View/Shows/admin_view.ctp:13
+msgid "Url Image"
+msgstr "Ruta de Imagen"
+
+#: View/BandPhotos/admin_view.ctp:43
+msgid "Edit Band Photo"
+msgstr "Editar Foto de Grupo"
+
+#: View/BandPhotos/admin_view.ctp:54
+msgid "Change Band Photo"
+msgstr "Cambiar Foto de Grupo"
+
+#: View/BandPhotos/admin_view.ctp:65
+msgid "Delete Band Photo"
+msgstr "Eliminar Foto de Grupo"
+
+#: View/BandTracks/admin_add.ctp:3
+msgid "Admin Add Band Track"
+msgstr "Agregar Tema de Grupo"
+
+#: View/BandTracks/admin_change_file_track.ctp:4
+#: View/BandTracks/admin_edit.ctp:4
+msgid "Admin Edit Band Track"
+msgstr "Editar Tema de Grupo"
+
+#: View/BandTracks/admin_edit.ctp:19
+#: View/BandTracks/admin_view.ctp:99
+#: View/Bands/admin_view.ctp:144
+msgid "Change File Track"
+msgstr "Cambiar Archivo de Tema"
+
+#: View/BandTracks/admin_index.ctp:1
+msgid "Band Tracks"
+msgstr "Temas de Grupo"
+
+#: View/BandTracks/admin_index.ctp:45
+msgid "New Band Track"
+msgstr "Nuevo Tema de Grupo"
+
+#: View/BandTracks/admin_view.ctp:25
+msgid "Band Track"
+msgstr "Tema de Grupo"
+
+#: View/BandTracks/admin_view.ctp:42
+#: View/Bands/admin_view.ctp:90
+msgid "Duration"
+msgstr "Duración"
+
+#: View/BandTracks/admin_view.ctp:47
+#: View/Bands/admin_view.ctp:91
+msgid "Url Track"
+msgstr "Ruta del Tema"
+
+#: View/BandTracks/admin_view.ctp:94
+msgid "Edit Band Track"
+msgstr "Editar Tema de Banda"
+
+#: View/BandTracks/admin_view.ctp:104
+msgid "Delete Band Track"
+msgstr "Borrar Tema de Banda"
+
+#: View/Bands/admin_add.ctp:15
+#, fuzzy
+msgid "Admin Add Band"
+msgstr "Agregar Libro de Visitas"
+
+#: View/Bands/admin_change_image_brand.ctp:3
+#: View/Bands/admin_change_image_logo.ctp:3
+#: View/Bands/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Band"
+msgstr "Editar Libro de Visitas"
+
+#: View/Bands/admin_edit.ctp:35
+#: View/Bands/admin_index.ctp:43
+#: View/Bands/admin_view.ctp:213
+msgid "Change Logo"
+msgstr "Cambiar Logo"
+
+#: View/Bands/admin_edit.ctp:46
+#: View/Bands/admin_index.ctp:44
+#: View/Bands/admin_view.ctp:214
+msgid "Change Brand"
+msgstr "Cambiar Sello"
+
+#: View/Bands/admin_index.ctp:1
+#: View/Bands/lists.ctp:1
+msgid "Bands"
+msgstr "Grupos"
+
+#: View/Bands/admin_view.ctp:36
+#: View/Genres/admin_view.ctp:1
+msgid "Genre"
+msgstr "Género"
+
+#: View/Bands/admin_view.ctp:41
+#: View/Clinics/admin_view.ctp:8
+#: View/CourseTeachers/admin_view.ctp:13
+#: View/Courses/admin_view.ctp:37
+#: View/Genres/admin_view.ctp:8
+#: View/IndexPhotos/admin_view.ctp:8
+#: View/Users/admin_view.ctp:13
+msgid "Name"
+msgstr "Nombre"
+
+#: View/Bands/admin_view.ctp:46
+#: View/Studios/admin_index.ctp:3
+msgid "About"
+msgstr "Acerca de"
+
+#: View/Bands/admin_view.ctp:51
+msgid "Contact"
+msgstr "Contacto"
+
+#: View/Bands/admin_view.ctp:56
+msgid "Url Image Logo"
+msgstr "Ruta de Imagen de Logo"
+
+#: View/Bands/admin_view.ctp:68
+msgid "Url Image Brand"
+msgstr "Ruta de Imagen de Marca"
+
+#: View/Bands/admin_view.ctp:84
+msgid "Related Band Tracks"
+msgstr "Temas del Grupo"
+
+#: View/Bands/admin_view.ctp:155
+msgid "New Tracks"
+msgstr "Nuevo Tema"
+
+#: View/Bands/admin_view.ctp:161
+msgid "Related Band Photos"
+msgstr "Fotos del Grupo"
+
+#: View/Bands/admin_view.ctp:202
+msgid "New Photos"
+msgstr "Nueva Foto"
+
+#: View/Bands/admin_view.ctp:212
+#, fuzzy
+msgid "Edit Band"
+msgstr "Editar"
+
+#: View/Bands/admin_view.ctp:215
+#, fuzzy
+msgid "Delete Band"
+msgstr "Borrar"
+
+#: View/Bands/view.ctp:50
+msgid "Band Info"
+msgstr "Info de Grupo"
+
+#: View/Clinics/admin_add.ctp:3
+msgid "Admin Add Clinic"
+msgstr "Agregar Clinica"
+
+#: View/Clinics/admin_add.ctp:18
+#: View/Clinics/admin_change_image.ctp:22
+#: View/Clinics/admin_edit.ctp:48
+#: View/Clinics/admin_view.ctp:44
+msgid "List Clinics"
+msgstr "Listar Clinicas"
+
+#: View/Clinics/admin_change_image.ctp:3
+#: View/Clinics/admin_edit.ctp:3
+msgid "Admin Edit Clinic"
+msgstr "Editar CLinicas"
+
+#: View/Clinics/admin_index.ctp:1
+#: View/Clinics/index.ctp:1
+msgid "Clinics"
+msgstr "Clinicas"
+
+#: View/Clinics/admin_index.ctp:53
+#: View/Clinics/admin_view.ctp:45
+msgid "New Clinic"
+msgstr "Nueva Clinica"
+
+#: View/Clinics/admin_view.ctp:1
+msgid "Clinic"
+msgstr "Clinica"
+
+#: View/Clinics/admin_view.ctp:25
+msgid "Url Link"
+msgstr "Ruta Link"
+
+#: View/Clinics/admin_view.ctp:30
+#: View/IndexNotices/admin_view.ctp:30
+#: View/Shows/admin_view.ctp:38
+#: View/Users/admin_view.ctp:18
+msgid "DateCreated"
+msgstr "Fecha de Creación"
+
+#: View/Clinics/admin_view.ctp:39
+msgid "Edit Clinic"
+msgstr "Editar Clinica"
+
+#: View/Clinics/admin_view.ctp:43
+#, fuzzy
+msgid "Delete Clinic"
+msgstr "Borrar"
+
+#: View/CourseTeachers/admin_add.ctp:3
+msgid "Admin Add Course Teacher"
+msgstr "Agregar Profesor"
+
+#: View/CourseTeachers/admin_add.ctp:6
+#: View/CourseTeachers/admin_edit.ctp:8
+#: View/CourseTeachers/admin_view.ctp:8
+#: View/Courses/admin_view.ctp:1
+msgid "Course"
+msgstr "Curso"
+
+#: View/CourseTeachers/admin_add.ctp:31
+#: View/CourseTeachers/admin_edit.ctp:35
+#: View/CourseTeachers/admin_view.ctp:30
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: View/CourseTeachers/admin_add.ctp:43
+#: View/CourseTeachers/admin_edit.ctp:47
+#: View/Courses/admin_add.ctp:34
+#: View/Courses/admin_change_image.ctp:31
+#: View/Courses/admin_edit.ctp:37
+#: View/Courses/admin_view.ctp:103
+msgid "List Courses"
+msgstr "Listar Cursos"
+
+#: View/CourseTeachers/admin_edit.ctp:3
+msgid "Admin Edit Course Teacher"
+msgstr "Editar Profesor"
+
+#: View/CourseTeachers/admin_index.ctp:2
+msgid "Course Teachers"
+msgstr "Profesores"
+
+#: View/CourseTeachers/admin_view.ctp:1
+msgid "Course Teacher"
+msgstr "Profesor"
+
+#: View/CourseTeachers/admin_view.ctp:42
+msgid "Edit Course Teacher"
+msgstr "Editar Profesor"
+
+#: View/CourseTeachers/admin_view.ctp:53
+msgid "Delete Course Teacher"
+msgstr "Borrar Profesor"
+
+#: View/Courses/admin_add.ctp:22
+#, fuzzy
+msgid "Admin Add Course"
+msgstr "Agregar Libro de Visitas"
+
+#: View/Courses/admin_add.ctp:35
+#: View/Courses/admin_index.ctp:50
+msgid "List Course Teachers"
+msgstr "Listar Profesores"
+
+#: View/Courses/admin_add.ctp:36
+#: View/Courses/admin_view.ctp:94
+msgid "New Teachers"
+msgstr "Nuevo Profesor"
+
+#: View/Courses/admin_change_image.ctp:10
+#: View/Courses/admin_edit.ctp:22
+#, fuzzy
+msgid "Admin Edit Course"
+msgstr "Editar Libro de Visitas"
+
+#: View/Courses/admin_change_image.ctp:41
+#: View/Courses/admin_view.ctp:101
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: View/Courses/admin_index.ctp:1
+msgid "Courses"
+msgstr "Cursos"
+
+#: View/Courses/admin_index.ctp:49
+#: View/Courses/admin_view.ctp:104
+msgid "New Course"
+msgstr "Nuevo Curso"
+
+#: View/Courses/admin_view.ctp:13
+#: View/DiscArtsCombos/admin_view.ctp:14
+#: View/DiscPhotoCombos/admin_view.ctp:13
+#: View/DiscPrintingCombos/admin_view.ctp:13
+#: View/Hirings/admin_index.ctp:3
+#: View/IndexNotices/admin_view.ctp:13
+#: View/IndexTexts/admin_index.ctp:3
+#: View/Shows/admin_view.ctp:8
+#: View/VideoclipCombos/admin_view.ctp:13
+#: View/Videoclips/admin_index.ctp:3
+msgid "Text"
+msgstr "Texto"
+
+#: View/Courses/admin_view.ctp:32
+msgid "Related Course Teachers"
+msgstr "Profesores del Curso"
+
+#: View/Courses/admin_view.ctp:102
+#, fuzzy
+msgid "Delete Course"
+msgstr "Borrar"
+
+#: View/DiscArtsCombos/admin_add.ctp:15
+#, fuzzy
+msgid "Admin Add Disc Arts Combo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/DiscArtsCombos/admin_add.ctp:27
+#: View/DiscArtsCombos/admin_edit.ctp:29
+#: View/DiscArtsCombos/admin_view.ctp:26
+msgid "List Disc Arts Combos"
+msgstr "Listar Combos de Arte de Discos"
+
+#: View/DiscArtsCombos/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Disc Arts Combo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscArtsCombos/admin_index.ctp:1
+msgid "Disc Arts Combos"
+msgstr "Combos de Arte de Discos"
+
+#: View/DiscArtsCombos/admin_index.ctp:38
+#: View/DiscArtsCombos/admin_view.ctp:27
+msgid "New Disc Arts Combo"
+msgstr "Nuevo Combo de Arte de Discos"
+
+#: View/DiscArtsCombos/admin_view.ctp:2
+msgid "Disc Arts Combo"
+msgstr "Combo de Arte de Discos"
+
+#: View/DiscArtsCombos/admin_view.ctp:24
+msgid "Edit Disc Arts Combo"
+msgstr "Editar Combos de Arte de Discos"
+
+#: View/DiscArtsCombos/admin_view.ctp:25
+msgid "Delete Disc Arts Combo"
+msgstr "Borrar Combo de Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_add.ctp:3
+#, fuzzy
+msgid "Admin Add Disc Arts Photo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/DiscArtsPhotos/admin_add.ctp:16
+#: View/DiscArtsPhotos/admin_change_image.ctp:39
+#: View/DiscArtsPhotos/admin_edit.ctp:28
+#: View/DiscArtsPhotos/admin_view.ctp:50
+msgid "List Disc Arts Photos"
+msgstr "Listar Fotos de Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_change_image.ctp:3
+#: View/DiscArtsPhotos/admin_edit.ctp:3
+#, fuzzy
+msgid "Admin Edit Disc Arts Photo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscArtsPhotos/admin_index.ctp:1
+msgid "Disc Arts Photos"
+msgstr "Fotos de Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_index.ctp:52
+#: View/DiscArtsPhotos/admin_view.ctp:51
+msgid "New Disc Arts Photo"
+msgstr "Nueva Foto de Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_view.ctp:1
+msgid "Disc Arts Photo"
+msgstr "Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_view.ctp:36
+msgid "Edit Disc Arts Photo"
+msgstr "Editar Arte de Discos"
+
+#: View/DiscArtsPhotos/admin_view.ctp:49
+msgid "Delete Disc Arts Photo"
+msgstr "Borrar Foto de Arte de Discos"
+
+#: View/DiscPhotoCombos/admin_add.ctp:15
+#, fuzzy
+msgid "Admin Add Disc Photo Combo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/DiscPhotoCombos/admin_add.ctp:27
+#: View/DiscPhotoCombos/admin_edit.ctp:29
+#: View/DiscPhotoCombos/admin_view.ctp:25
+msgid "List Disc Photo Combos"
+msgstr "Listar Foto de Fotografía de Discos"
+
+#: View/DiscPhotoCombos/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Disc Photo Combo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscPhotoCombos/admin_index.ctp:1
+msgid "Disc Photo Combos"
+msgstr "Combo de Fotografía de Discos"
+
+#: View/DiscPhotoCombos/admin_index.ctp:39
+#: View/DiscPhotoCombos/admin_view.ctp:26
+msgid "New Disc Photo Combo"
+msgstr "Nuevo Combo de Fotografía de Discos"
+
+#: View/DiscPhotoCombos/admin_view.ctp:1
+msgid "Disc Photo Combo"
+msgstr "Combo de Fotografía de Discos"
+
+#: View/DiscPhotoCombos/admin_view.ctp:23
+msgid "Edit Disc Photo Combo"
+msgstr "Editar Combo de Fotografía de Discos"
+
+#: View/DiscPhotoCombos/admin_view.ctp:24
+msgid "Delete Disc Photo Combo"
+msgstr "Borrar Combo de Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_add.ctp:3
+#, fuzzy
+msgid "Admin Add Disc Photo Photo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/DiscPhotoPhotos/admin_add.ctp:16
+#: View/DiscPhotoPhotos/admin_change_image.ctp:36
+#: View/DiscPhotoPhotos/admin_edit.ctp:28
+#: View/DiscPhotoPhotos/admin_view.ctp:30
+msgid "List Disc Photo Photos"
+msgstr "Listar Fotos de Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_change_image.ctp:3
+#: View/DiscPhotoPhotos/admin_edit.ctp:3
+#, fuzzy
+msgid "Admin Edit Disc Photo Photo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscPhotoPhotos/admin_index.ctp:1
+msgid "Disc Photo Photos"
+msgstr "Fotos de Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_index.ctp:52
+#: View/DiscPhotoPhotos/admin_view.ctp:31
+msgid "New Disc Photo Photo"
+msgstr "Nueva Foto de Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_view.ctp:1
+msgid "Disc Photo Photo"
+msgstr "Foto de Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_view.ctp:28
+msgid "Edit Disc Photo Photo"
+msgstr "Editar Foto de  Fotografía de Discos"
+
+#: View/DiscPhotoPhotos/admin_view.ctp:29
+msgid "Delete Disc Photo Photo"
+msgstr "Borrar Foto de Fotografía de Discos"
+
+#: View/DiscPrintingCombos/admin_add.ctp:15
+msgid "Admin Add Disc Printing Combo"
+msgstr "Agregar Combo de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_add.ctp:27
+#: View/DiscPrintingCombos/admin_edit.ctp:29
+#: View/DiscPrintingCombos/admin_view.ctp:25
+msgid "List Disc Printing Combos"
+msgstr "Listar Combos de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Disc Printing Combo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscPrintingCombos/admin_index.ctp:1
+msgid "Disc Printing Combos"
+msgstr "Combos de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_index.ctp:39
+#: View/DiscPrintingCombos/admin_view.ctp:26
+msgid "New Disc Printing Combo"
+msgstr "Nuevo Combo de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_view.ctp:1
+msgid "Disc Printing Combo"
+msgstr "Combo de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_view.ctp:23
+msgid "Edit Disc Printing Combo"
+msgstr "Editar Combo de Impresión de Discos"
+
+#: View/DiscPrintingCombos/admin_view.ctp:24
+msgid "Delete Disc Printing Combo"
+msgstr "Borrar Combo de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_add.ctp:3
+msgid "Admin Add Disc Printing Photo"
+msgstr "Agregar Foto de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_add.ctp:18
+#: View/DiscPrintingPhotos/admin_change_image.ctp:37
+#: View/DiscPrintingPhotos/admin_edit.ctp:28
+#: View/DiscPrintingPhotos/admin_view.ctp:37
+msgid "List Disc Printing Photos"
+msgstr "Listar Fotos de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_change_image.ctp:3
+#: View/DiscPrintingPhotos/admin_edit.ctp:3
+#, fuzzy
+msgid "Admin Edit Disc Printing Photo"
+msgstr "Editar Libro de Visitas"
+
+#: View/DiscPrintingPhotos/admin_index.ctp:1
+msgid "Disc Printing Photos"
+msgstr "Fotos de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_index.ctp:52
+#: View/DiscPrintingPhotos/admin_view.ctp:38
+msgid "New Disc Printing Photo"
+msgstr "Nueva Foto de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_view.ctp:1
+msgid "Disc Printing Photo"
+msgstr "Foto de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_view.ctp:35
+msgid "Edit Disc Printing Photo"
+msgstr "Editar Foto de Impresión de Discos"
+
+#: View/DiscPrintingPhotos/admin_view.ctp:36
+msgid "Delete Disc Printing Photo"
+msgstr "Borrar Foto de Impresión de Discos"
+
+#: View/Discs/admin_edit.ctp:16
+#, fuzzy
+msgid "Admin Edit Discs"
+msgstr "Editar Libro de Visitas"
+
+#: View/Discs/admin_edit.ctp:34
+msgid "List Discs"
+msgstr "Listar Discos"
+
+#: View/Discs/admin_index.ctp:1
+#: View/Discs/index.ctp:1
+msgid "Discs"
+msgstr "Discos"
+
+#: View/Discs/admin_index.ctp:3
+msgid "Text Printing"
+msgstr "Texto de Impresion"
+
+#: View/Discs/admin_index.ctp:10
+#, fuzzy
+msgid "Text Arts"
+msgstr "Texto"
+
+#: View/Discs/admin_index.ctp:17
+msgid "Text Photography"
+msgstr "Texto de Fotografía"
+
+#: View/Discs/admin_index.ctp:30
+msgid "Edit Disc Art"
+msgstr "Editar Arte de Discos"
+
+#: View/Discs/arts.ctp:18
+msgid "Disc Arts"
+msgstr "Arte de Discos"
+
+#: View/Discs/photos.ctp:18
+msgid "Disc Photography"
+msgstr "Fotografía de Discos"
+
+#: View/Discs/printing.ctp:18
+msgid "Disc Printing"
+msgstr "Impresión de Discos"
+
+#: View/Genres/admin_add.ctp:3
+#, fuzzy
+msgid "Admin Add Genre"
+msgstr "Agregar Libro de Visitas"
+
+#: View/Genres/admin_add.ctp:14
+#: View/Genres/admin_edit.ctp:17
+#: View/Genres/admin_view.ctp:20
+#, fuzzy
+msgid "List Genres"
+msgstr "Mostrar Libro de Visitas"
+
+#: View/Genres/admin_edit.ctp:4
+#, fuzzy
+msgid "Admin Edit Genre"
+msgstr "Editar Libro de Visitas"
+
+#: View/Genres/admin_index.ctp:1
+msgid "Genres"
+msgstr "Géneros"
+
+#: View/Genres/admin_index.ctp:37
+#: View/Genres/admin_view.ctp:21
+msgid "New Genre"
+msgstr "Nuevo Género"
+
+#: View/Genres/admin_view.ctp:18
+msgid "Edit Genre"
+msgstr "Editar Género"
+
+#: View/Genres/admin_view.ctp:19
+#, fuzzy
+msgid "Delete Genre"
+msgstr "Borrar"
+
+#: View/Guestbooks/admin_index.ctp:1
+#: View/Guestbooks/index.ctp:1
+msgid "Guestbooks"
+msgstr "Foro"
+
+#: View/Hirings/admin_edit.ctp:15
+msgid "Admin Edit Hiring"
+msgstr "Editar Contrataciones"
+
+#: View/Hirings/admin_edit.ctp:26
+msgid "List Hirings"
+msgstr "Listar Contrataciones"
+
+#: View/Hirings/admin_index.ctp:1
+#: View/Hirings/index.ctp:1
+msgid "Hiring"
+msgstr "Contrataciones"
+
+#: View/Hirings/admin_index.ctp:13
+msgid "Edit Hiring"
+msgstr "Editar Contrataciones"
+
+#: View/IndexNotices/admin_add.ctp:15
+msgid "Admin Add Index Notice"
+msgstr "Agregar Noticia de Inicio"
+
+#: View/IndexNotices/admin_add.ctp:27
+#: View/IndexNotices/admin_change_image.ctp:33
+#: View/IndexNotices/admin_edit.ctp:40
+#: View/IndexNotices/admin_view.ctp:52
+msgid "List Index Notices"
+msgstr "Listar Noticia de Inicio"
+
+#: View/IndexNotices/admin_change_image.ctp:3
+#: View/IndexNotices/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Index Notice"
+msgstr "Editar Libro de Visitas"
+
+#: View/IndexNotices/admin_index.ctp:1
+msgid "Index Notices"
+msgstr "Noticias de Inicio"
+
+#: View/IndexNotices/admin_index.ctp:67
+#: View/IndexNotices/admin_view.ctp:53
+msgid "New Index Notice"
+msgstr "Nueva Noticia de Inicio"
+
+#: View/IndexNotices/admin_view.ctp:1
+msgid "Index Notice"
+msgstr "Noticia de Inicio"
+
+#: View/IndexNotices/admin_view.ctp:39
+msgid "Edit Index Notice"
+msgstr "Editar Noticia de Inicio"
+
+#: View/IndexNotices/admin_view.ctp:51
+msgid "Delete Index Notice"
+msgstr "Borrar Noticia de Inicio"
+
+#: View/IndexPhotos/admin_add.ctp:3
+#, fuzzy
+msgid "Admin Add Index Photo"
+msgstr "Agregar Libro de Visitas"
+
+#: View/IndexPhotos/admin_add.ctp:20
+#: View/IndexPhotos/admin_change_image.ctp:39
+#: View/IndexPhotos/admin_edit.ctp:33
+#: View/IndexPhotos/admin_view.ctp:47
+msgid "List Index Photos"
+msgstr "Listar Noticia de Inicio"
+
+#: View/IndexPhotos/admin_change_image.ctp:3
+#: View/IndexPhotos/admin_edit.ctp:3
+#, fuzzy
+msgid "Admin Edit Index Photo"
+msgstr "Editar Libro de Visitas"
+
+#: View/IndexPhotos/admin_index.ctp:1
+msgid "Index Photos"
+msgstr "Fotos de Inicio"
+
+#: View/IndexPhotos/admin_index.ctp:71
+#: View/IndexPhotos/admin_view.ctp:48
+msgid "New Index Photo"
+msgstr "Nueva Foto de Inicio"
+
+#: View/IndexPhotos/admin_view.ctp:1
+msgid "Index Photo"
+msgstr "Foto de Inicio"
+
+#: View/IndexPhotos/admin_view.ctp:34
+msgid "Edit Index Photo"
+msgstr "Editar Foto de Inicio"
+
+#: View/IndexPhotos/admin_view.ctp:46
+msgid "Delete Index Photo"
+msgstr "Borrar Foto de Inicio"
+
+#: View/IndexTexts/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Index Text"
+msgstr "Editar Libro de Visitas"
+
+#: View/IndexTexts/admin_edit.ctp:29
+msgid "View Index Text"
+msgstr "Ver Foto de Inicio"
+
+#: View/IndexTexts/admin_index.ctp:1
+msgid "Index Text"
+msgstr "Texto de Inicio"
+
+#: View/IndexTexts/admin_index.ctp:15
+msgid "Edit Index Text"
+msgstr "Editar Texto de Inicio"
+
+#: View/Layouts/admin.default.ctp:69
+#: View/Layouts/default.ctp:103
+#: View/Layouts/default.nosponsors.ctp:91
+#: View/Users/admin_view.ctp:1
+#, fuzzy
+msgid "User"
+msgstr "Usuario"
+
+#: View/Layouts/admin.default.ctp:83
+#: View/Layouts/default.ctp:117
+#: View/Layouts/default.nosponsors.ctp:105
+msgid "Logout"
+msgstr "Desconectar"
+
+#: View/Shows/admin_add.ctp:22
+#, fuzzy
+msgid "Admin Add Show"
+msgstr "Agregar Libro de Visitas"
+
+#: View/Shows/admin_add.ctp:36
+#: View/Shows/admin_change_image.ctp:35
+#: View/Shows/admin_edit.ctp:31
+#: View/Shows/admin_view.ctp:93
+msgid "List Shows"
+msgstr "Listar Shows"
+
+#: View/Shows/admin_change_image.ctp:15
+#: View/Shows/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Show"
+msgstr "Editar Libro de Visitas"
+
+#: View/Shows/admin_change_image.ctp:33
+#: View/Shows/admin_view.ctp:55
+#, fuzzy
+msgid "Edit Show"
+msgstr "Editar"
+
+#: View/Shows/admin_index.ctp:1
+#: View/Shows/index.ctp:7
+msgid "Shows"
+msgstr "Shows"
+
+#: View/Shows/admin_index.ctp:58
+#: View/Shows/admin_view.ctp:103
+msgid "New Show"
+msgstr "Nuevo Show"
+
+#: View/Shows/admin_view.ctp:1
+msgid "Show"
+msgstr "Show"
+
+#: View/Shows/admin_view.ctp:27
+msgid "Url Moreinfo"
+msgstr "Ruta de Mas Info"
+
+#: View/Shows/admin_view.ctp:32
+msgid "Event Date"
+msgstr "Fecha de Evento"
+
+#: View/Shows/admin_view.ctp:77
+#, fuzzy
+msgid "Delete Show"
+msgstr "Borrar"
+
+#: View/Studios/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Studio"
+msgstr "Editar Libro de Visitas"
+
+#: View/Studios/admin_edit.ctp:27
+msgid "View Studios"
+msgstr "Ver Estudio"
+
+#: View/Studios/admin_index.ctp:1
+#: View/Studios/index.ctp:1
+msgid "Studio"
+msgstr "Estudio"
+
+#: View/Studios/admin_index.ctp:12
+msgid "Edit Studio"
+msgstr "Editar Estudio"
+
+#: View/Users/admin_add.ctp:5
+#, fuzzy
+msgid "Admin Add User"
+msgstr "Agregar Usuarios"
+
+#: View/Users/admin_add.ctp:21
+#: View/Users/admin_change_password.ctp:28
+#: View/Users/admin_edit.ctp:20
+#: View/Users/admin_view.ctp:29
+msgid "List Users"
+msgstr "Listar Usuarios"
+
+#: View/Users/admin_change_password.ctp:3
+#: View/Users/admin_edit.ctp:22
+#: View/Users/admin_index.ctp:20
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: View/Users/admin_edit.ctp:4
+#, fuzzy
+msgid "Admin Edit User"
+msgstr "Agregar Usuarios"
+
+#: View/Users/admin_index.ctp:1
+#, fuzzy
+msgid "Users"
+msgstr "Usuario"
+
+#: View/Users/admin_index.ctp:45
+msgid "Add User"
+msgstr "Agregar Usuarios"
+
+#: View/Users/admin_view.ctp:8
+msgid "Username"
+msgstr "Usuario"
+
+#: View/Users/admin_view.ctp:27
+#, fuzzy
+msgid "Edit User"
+msgstr "Agregar Usuarios"
+
+#: View/Users/admin_view.ctp:28
+#, fuzzy
+msgid "Delete User"
+msgstr "Borrar"
+
+#: View/Users/admin_view.ctp:30
+#, fuzzy
+msgid "New User"
+msgstr "Agregar Usuarios"
+
+#: View/Users/login.ctp:43
+msgid "Go Back"
+msgstr "Volver"
+
+#: View/Users/login.ctp:44
+msgid "Login"
+msgstr "Login"
+
+#: View/VideoclipCombos/admin_add.ctp:15
+msgid "Admin Add Videoclip Combo"
+msgstr "Agregar Combo de Videoclip"
+
+#: View/VideoclipCombos/admin_add.ctp:30
+#: View/VideoclipCombos/admin_edit.ctp:32
+#: View/VideoclipCombos/admin_view.ctp:40
+msgid "List Videoclip Combos"
+msgstr "Listar Combos de Videoclip"
+
+#: View/VideoclipCombos/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Videoclip Combo"
+msgstr "Editar Libro de Visitas"
+
+#: View/VideoclipCombos/admin_index.ctp:1
+msgid "Videoclip Combos"
+msgstr "Combos de Videoclip"
+
+#: View/VideoclipCombos/admin_index.ctp:44
+#: View/VideoclipCombos/admin_view.ctp:41
+msgid "New Videoclip Combo"
+msgstr "Nuevo Combo de Videoclip"
+
+#: View/VideoclipCombos/admin_view.ctp:1
+msgid "Videoclip Combo"
+msgstr "Combo de Videoclip"
+
+#: View/VideoclipCombos/admin_view.ctp:18
+msgid "Work Estimated"
+msgstr "Tiempo Estimado"
+
+#: View/VideoclipCombos/admin_view.ctp:23
+msgid "Work Duration"
+msgstr "Duración"
+
+#: View/VideoclipCombos/admin_view.ctp:28
+msgid "Work Cost"
+msgstr "Costo"
+
+#: View/VideoclipCombos/admin_view.ctp:38
+msgid "Edit Videoclip Combo"
+msgstr "Editar Combo de Videoclip"
+
+#: View/VideoclipCombos/admin_view.ctp:39
+msgid "Delete Videoclip Combo"
+msgstr "Borrar Combo de Videoclip"
+
+#: View/Videoclips/admin_change_image.ctp:10
+#: View/Videoclips/admin_edit.ctp:15
+#, fuzzy
+msgid "Admin Edit Videoclip"
+msgstr "Editar Libro de Visitas"
+
+#: View/Videoclips/admin_change_image.ctp:26
+#: View/Videoclips/admin_index.ctp:41
+msgid "Edit Videoclip"
+msgstr "Editar Videoclip"
+
+#: View/Videoclips/admin_change_image.ctp:36
+msgid "View Videoclip"
+msgstr "Ver Videoclip"
+
+#: View/Videoclips/admin_edit.ctp:39
+msgid "List Videoclips"
+msgstr "Listar Videoclip"
+
+#: View/Videoclips/admin_index.ctp:1
+#: View/Videoclips/index.ctp:1
+msgid "Videoclip"
+msgstr "Videoclip"
+
+#: View/Videoclips/admin_index.ctp:23
+msgid "Url Sample Video"
+msgstr "Ruta de VIdeo de Muestra"
+
+#: Model/Band.php:validation
+#: for field genre_id Model/BandPhoto.php:validation
+#: band_id Model/BandTrack.php:validation
+msgid "numeric"
+msgstr "Numérico"
+
+#: Model/Band.php:validation
+#: for field genre_id;validation name
+#: Model/BandPhoto.php:validation
+#: title Model/BandTrack.php:validation
+#: title;validation duration Model/Clinic.php:validation
+#: name;validation
+#: url_link Model/DiscArtsPhoto.php:validation
+#: Model/DiscPhotoCombo.php:validation
+#: Model/DiscPhotoPhoto.php:validation
+#: Model/DiscPrintingCombo.php:validation
+#: Model/DiscPrintingPhoto.php:validation
+#: Model/Genre.php:validation
+#: Model/IndexNotice.php:validation
+#: Model/IndexPhoto.php:validation
+#: Model/Show.php:validation
+#: event_date Model/Videoclip.php:validation
+#: url_sample_video Model/VideoclipCombo.php:validation
+msgid "notempty"
+msgstr "No Vacío"
+
+#: Model/Band.php:validation
+#: for field url_image_logo;validation
+#: url_image_brand Model/BandPhoto.php:validation
+#: url_image
+#: Model/BandTrack.php:validation
+#: url_track Model/Clinic.php:validation
+#: Model/Course.php:validation
+#: Model/DiscArtsPhoto.php:validation
+#: Model/DiscPhotoPhoto.php:validation
+#: Model/DiscPrintingPhoto.php:validation
+#: Model/IndexNotice.php:validation
+#: Model/IndexPhoto.php:validation
+#: Model/Show.php:validation
+#: Model/Videoclip.php:validation
+#, fuzzy
+msgid "Invalid File"
+msgstr "Usuario Inválido"
+
+#: Model/Clinic.php:validation
+#: for field url_link Model/Show.php:validation
+#: url_moreinfo
+#, fuzzy
+msgid "url"
+msgstr "Url"
+
+#: Model/Clinic.php:validation
+#: for field dateCreated
+#: Model/IndexNotice.php:validation
+#: Model/Show.php:validation
+msgid "datetime"
+msgstr "Fecha"
+
+#: Model/Course.php:validation
+#: for field title
+msgid "A title is required"
+msgstr "El Título es requerido"
+
+#: Model/DiscArtsPhoto.php:validation
+#: for field url
+#: Model/DiscPhotoPhoto.php:validation
+#: Model/DiscPrintingPhoto.php:validation
+#: Model/IndexPhoto.php:validation
+msgid "rule"
+msgstr "Regla"
+
+#: Model/Show.php:validation
+#: for field event_date
+msgid "date"
+msgstr "Fecha"
+
+#: Model/User.php:validation
+#: for field username
+msgid "A username is required"
+msgstr "El usuario es requerido"
+
+#: Model/User.php:validation
+#: for field password
+msgid "A password is required"
+msgstr "La contraseña es requerida"
+
+#: Plugin/Upload/Model/Behavior/FileGrabberBehavior.php:46
+#, fuzzy
+msgid "File was not downloaded."
+msgstr "El Usuario no ha sido Borrado"
+
+#: View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: the rapid development php framework"
+
+#: View/Pages/home.ctp:26
+msgid "Release Notes for CakePHP %s."
+msgstr "Release Notes for CakePHP %s."
+
+#: View/Pages/home.ctp:27
+msgid "Read the changelog"
+msgstr "Lee la Lista de Cambios"
+
+#: View/Pages/home.ctp:34
+msgid "URL rewriting is not properly configured on your server."
+msgstr "Reescritura de URL no esta configurada en su Servidor."
+
+#: View/Pages/home.ctp:42
+msgid "Your version of PHP is 5.2.8 or higher."
+msgstr "Su versión de PHP es Superior a 5.2.8."
+
+#: View/Pages/home.ctp:46
+msgid "Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP."
+msgstr "Su version de PHP es muy antigua. Se necesita PHP 5.2.8 o superior para usar la Plataforma."
+
+#: View/Pages/home.ctp:55
+msgid "Your tmp directory is writable."
+msgstr "Su directorio temporal es modificable."
+
+#: View/Pages/home.ctp:59
+msgid "Your tmp directory is NOT writable."
+msgstr "Su directorio temporal no es modificable."
+
+#: View/Pages/home.ctp:69
+msgid "The %s is being used for core caching. To change the config edit APP/Config/core.php "
+msgstr "The %s is being used for core caching. To change the config edit APP/Config/core.php."
+
+#: View/Pages/home.ctp:73
+msgid "Your cache is NOT working. Please check the settings in APP/Config/core.php"
+msgstr "Su Cache no esta funcionando. Revise las configuraciones."
+
+#: View/Pages/home.ctp:83
+msgid "Your database configuration file is present."
+msgstr "La base de datos esta configurada."
+
+#: View/Pages/home.ctp:88
+msgid "Your database configuration file is NOT present."
+msgstr "La base de datos no esta configurada."
+
+#: View/Pages/home.ctp:90
+msgid "Rename APP/Config/database.php.default to APP/Config/database.php"
+msgstr "Renombre el archivo de configuración de la base de datos."
+
+#: View/Pages/home.ctp:115
+msgid "Cake is able to connect to the database."
+msgstr "La plataforma puede conectarse a la base de datos."
+
+#: View/Pages/home.ctp:119
+msgid "Cake is NOT able to connect to the database."
+msgstr "La plataforma no puede conectarse a la base de datos."
+
+#: View/Pages/home.ctp:131
+msgid "PCRE has not been compiled with Unicode support."
+msgstr "PCRE has not been compiled with Unicode support."
+
+#: View/Pages/home.ctp:133
+msgid "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+msgstr "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+
+#: View/Pages/home.ctp:142
+msgid "DebugKit plugin is present"
+msgstr "DebugKit plugin esta presente"
+
+#: View/Pages/home.ctp:146
+msgid "DebugKit is not installed. It will help you inspect and debug different aspects of your application."
+msgstr "DebugKit plugin no esta presente."
+
+#: View/Pages/home.ctp:148
+msgid "You can install it from %s"
+msgstr "Lo podes instalar de %s"
+
+#: View/Pages/home.ctp:154
+msgid "Editing this Page"
+msgstr "Editando esta Página"
+
+#: View/Pages/home.ctp:157
+msgid ""
+"To change the content of this page, edit: APP/View/Pages/home.ctp.<br />\n"
+"To change its layout, edit: APP/View/Layouts/default.ctp.<br />\n"
+"You can also add some CSS styles for your pages at: APP/webroot/css."
+msgstr "Para cambiar esta página edite el archivo home.ctp."
+
+#: View/Pages/home.ctp:163
+msgid "Getting Started"
+msgstr "Empezando"
+
+#: View/Pages/home.ctp:167
+msgid "New"
+msgstr "Nuevo"
+
+#: View/Pages/home.ctp:167
+msgid "CakePHP 2.0 Docs"
+msgstr "Documentación de la Plataforma"
+
+#: View/Pages/home.ctp:176
+msgid "The 15 min Blog Tutorial"
+msgstr "The 15 min Blog Tutorial"
+
+#: View/Pages/home.ctp:183
+msgid "Official Plugins"
+msgstr "PLugins Oficiales"
+
+#: View/Pages/home.ctp:188
+msgid "provides a debugging toolbar and enhanced debugging tools for CakePHP applications."
+msgstr "provides a debugging toolbar and enhanced debugging tools for CakePHP applications."
+
+#: View/Pages/home.ctp:192
+msgid "contains various localized validation classes and translations for specific countries"
+msgstr "contains various localized validation classes and translations for specific countries"
+
+#: View/Pages/home.ctp:197
+msgid "More about Cake"
+msgstr "Mas acerca de la Plataforma"
+
+#: View/Pages/home.ctp:199
+msgid "CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC."
+msgstr "CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC."
+
+#: View/Pages/home.ctp:202
+msgid "Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility."
+msgstr "Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility."
+
+#: View/Pages/home.ctp:206
+msgid "Cake Software Foundation"
+msgstr "Cake Software Foundation"
+
+#: View/Pages/home.ctp:207
+msgid "Promoting development related to CakePHP"
+msgstr "Promoting development related to CakePHP"
+
+#: View/Pages/home.ctp:208
+msgid "CakePHP"
+msgstr "CakePHP"
+
+#: View/Pages/home.ctp:209
+msgid "The Rapid Development Framework"
+msgstr "The Rapid Development Framework"
+
+#: View/Pages/home.ctp:210
+msgid "CakePHP Documentation"
+msgstr "CakePHP Documentation"
+
+#: View/Pages/home.ctp:211
+msgid "Your Rapid Development Cookbook"
+msgstr "Your Rapid Development Cookbook"
+
+#: View/Pages/home.ctp:212
+msgid "CakePHP API"
+msgstr "CakePHP API"
+
+#: View/Pages/home.ctp:213
+msgid "Quick Reference"
+msgstr "Referencia Rápida"
+
+#: View/Pages/home.ctp:214
+msgid "The Bakery"
+msgstr "La Cocina"
+
+#: View/Pages/home.ctp:215
+msgid "Everything CakePHP"
+msgstr "Everything CakePHP"
+
+#: View/Pages/home.ctp:216
+msgid "CakePHP plugins repo"
+msgstr "CakePHP plugins repo"
+
+#: View/Pages/home.ctp:217
+msgid "A comprehensive list of all CakePHP plugins created by the community"
+msgstr "A comprehensive list of all CakePHP plugins created by the community"
+
+#: View/Pages/home.ctp:218
+msgid "CakePHP Google Group"
+msgstr "CakePHP Google Group"
+
+#: View/Pages/home.ctp:219
+msgid "Community mailing list"
+msgstr "Community mailing list"
+
+#: View/Pages/home.ctp:221
+msgid "Live chat about CakePHP"
+msgstr "Live chat about CakePHP"
+
+#: View/Pages/home.ctp:222
+msgid "CakePHP Code"
+msgstr "CakePHP Code"
+
+#: View/Pages/home.ctp:223
+msgid "For the Development of CakePHP Git repository, Downloads"
+msgstr "For the Development of CakePHP Git repository, Downloads"
+
+#: View/Pages/home.ctp:224
+msgid "CakePHP Lighthouse"
+msgstr "CakePHP Lighthouse"
+
+#: View/Pages/home.ctp:225
+msgid "CakePHP Tickets, Wiki pages, Roadmap"
+msgstr "CakePHP Tickets, Wiki pages, Roadmap"
+
+#: webroot/test.php:87
+msgid "Debug setting does not allow access to this url."
+msgstr "La opcion de depuración no admite acceso a esa URL."
+
+#~ msgid "Guestbook deleted"
+#~ msgstr "Libro de Visitas Borrado"
+
+#~ msgid "Delete Guestbook"
+#~ msgstr "Borrar Libro de Visita"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Guestbook"
+#~ msgstr "Libro de Visitas"
+
+#~ msgid "IsActive"
+#~ msgstr "Activo"
+
+#~ msgid "Edit Guestbook"
+#~ msgstr "Editar Libro de Visita"
+
+#~ msgid "Please enter your username and password"
+#~ msgstr "Ingrese su Usuario y Contraseña"

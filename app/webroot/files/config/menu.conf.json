@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Inicio",
+        "url": "/"
+    },
+    {
+        "title": "Cursos",
+        "url": "/courses"
+    },
+    {
+        "title": "Foro",
+        "url": "/guestbooks"
+    },
+    {
+        "title": "Shows",
+        "url": "/shows"
+    },
+    {
+        "title": "Clinicas",
+        "url": "/clinics"
+    },
+    {
+        "title": "Discos",
+        "isFolder": true,
+        "children": [
+            {
+                "title": "Fotograf&iacute;a",
+                "url": "/discs/photos",
+                "icon": false
+            },
+            {
+                "title": "Impresi&oacute;n",
+                "url": "/discs/printing",
+                "icon": false
+            },
+            {
+                "title": "Artes",
+                "url": "/discs/arts",
+                "icon": false
+            }
+        ]
+    },
+    {
+        "title": "VideoClips",
+        "url": "/videoclips"
+    },
+    {
+        "title": "Estudio",
+        "url": "/studios"
+    },
+    {
+        "title": "Contrataci&oacute;n",
+        "url": "/hirings"
+    },
+    {
+        "title": "Grupos",
+        "isFolder": true,
+        "children": []
+    }
+]

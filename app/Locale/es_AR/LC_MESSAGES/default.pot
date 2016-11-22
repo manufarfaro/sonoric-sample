@@ -1,0 +1,183 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-03-03 02:56-0300\n"
+"PO-Revision-Date: 2013-03-03 04:00-0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/GuestbooksController.php:29;61;87
+msgid "Invalid guestbook"
+msgstr ""
+
+#: Controller/GuestbooksController.php:44;65
+msgid "The guestbook has been saved"
+msgstr ""
+
+#: Controller/GuestbooksController.php:47;68
+msgid "The guestbook could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GuestbooksController.php:91
+msgid "Guestbook deleted"
+msgstr ""
+
+#: Controller/GuestbooksController.php:94
+msgid "Guestbook was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:20;40;61
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:29;44
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:32;47
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:64
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:67
+msgid "User was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:76
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: View/Guestbooks/add.ctp:4
+msgid "Admin Add Guestbook"
+msgstr ""
+
+#: View/Guestbooks/add.ctp:14
+#: View/Guestbooks/edit.ctp:19
+#: View/Users/add.ctp:21
+msgid "Submit"
+msgstr ""
+
+#: View/Guestbooks/add.ctp:17
+#: View/Guestbooks/edit.ctp:27
+#: View/Guestbooks/index.ctp:11
+#: View/Guestbooks/view.ctp:47
+msgid "Actions"
+msgstr ""
+
+#: View/Guestbooks/add.ctp:21
+#: View/Guestbooks/edit.ctp:35
+#: View/Guestbooks/view.ctp:57
+msgid "List Guestbooks"
+msgstr ""
+
+#: View/Guestbooks/edit.ctp:4
+msgid "Admin Edit Guestbook"
+msgstr ""
+
+#: View/Guestbooks/edit.ctp:31
+#: View/Guestbooks/view.ctp:54
+msgid "Delete Guestbook"
+msgstr ""
+
+#: View/Guestbooks/edit.ctp:31
+#: View/Guestbooks/index.ctp:30
+#: View/Guestbooks/view.ctp:54
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:1
+msgid "Guestbooks"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:22
+#: View/Guestbooks/view.ctp:34
+msgid "Yes"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:22
+#: View/Guestbooks/view.ctp:34
+msgid "No"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:28
+msgid "View"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:29
+msgid "Edit"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:30
+msgid "Delete"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:39
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:47
+msgid "previous"
+msgstr ""
+
+#: View/Guestbooks/index.ctp:60
+msgid "next"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:3
+msgid "Guestbook"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:6
+msgid "Id"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:11
+msgid "Username"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:16
+msgid "Url"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:21
+msgid "Title"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:26
+msgid "Text"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:31
+msgid "IsActive"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:39
+msgid "DateCreated"
+msgstr ""
+
+#: View/Guestbooks/view.ctp:51
+msgid "Edit Guestbook"
+msgstr ""
+
+#: View/Users/add.ctp:8
+msgid "Add User"
+msgstr ""
+
+#: View/Users/login.ctp:26
+msgid "Please enter your username and password"
+msgstr ""
+
+#: View/Users/login.ctp:35
+msgid "Login"
+msgstr ""
+

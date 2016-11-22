@@ -1,0 +1,12 @@
+{
+    "name": "manufarfaro/sonoric-sample",
+    "authors": [
+        {
+            "name": "Manu Farfaro",
+            "email": "manufarfaro@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "<=5.5.38",
+    }
+}
