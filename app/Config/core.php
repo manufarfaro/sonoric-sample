@@ -313,5 +313,5 @@ Configure::write('Config.language', 'es_AR');
  * @description Code was added in order to set the enviroment offline variable.
  */
 /* Begin --> */
-define('OFFLINE', true);
+define('OFFLINE', false);
 /* <-- End */
