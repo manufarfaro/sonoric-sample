@@ -31,7 +31,7 @@ $(document).ready(function(){
 		<?php $arrTrackCount = count($band['tracks']); ?>
 		<?php foreach ($band['tracks'] as $key => $track): ?>
 			{
-				title:<?php echo "'". mysql_real_escape_string($track['title'])."'"; ?>,
+				title:<?php echo "'". str_replace(array("\\",  "\x00", "\n",  "\r",  "'",  '"', "\x1a"), array("\\\\","\\0","\\n", "\\r", "\'", '\"', "\\Z"), $track['title'])."'"; ?>,
 				mp3:<?php echo "'".$this->webroot.'files'.DS.'band_track'.DS.'url_track'.DS.$track['id'].DS.$track['url_track']."'"; ?>,
 				free: true
 			}
